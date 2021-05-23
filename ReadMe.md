@@ -60,6 +60,8 @@ WPF编程宝典第4版.pdf
 
 鸟哥的Linux私房菜-第四版-基础篇.pdf
 
+Python编程从入门到实践.pdf
+
 
 
 * **[Electronic](https://pan.baidu.com/s/1GQGzUBq0vNFGmVC11W0obQ)**
