@@ -16,7 +16,7 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 链接：https://pan.baidu.com/s/1hd5SWuqZTFRAx5-GZoN5aA 
 提取码：qw66 
 
-## 目录(2021.05.24)
+## 目录(2021.05.30)
 
 
 
@@ -65,6 +65,10 @@ Python编程从入门到实践.pdf
 STL源码剖析 by 侯捷.pdf
 
 The C++ Standard Library A Tutorial and Reference by Nicolai M. Josuttis.pdf
+
+设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
+
+
 
 * **[Electronic](https://pan.baidu.com/s/1GQGzUBq0vNFGmVC11W0obQ)**
 
