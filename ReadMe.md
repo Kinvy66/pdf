@@ -18,73 +18,73 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 目录(2021.05.30)
 
+### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
+1. [c/c++](https://pan.baidu.com/s/1knG8InoVhlBkwwEgk6Scdg)
 
-* **[CS](https://pan.baidu.com/s/1z0g5G-aivd5MrxXsFRH7mg)**  
+   C++ Primer中文版 (第5版).pdf
 
-541118 深入理解计算机系统（原书第三版）.pdf
+   C++笔记.pdf
 
-Advanced Programming in the UNIX Environment, 3rd Edition.pdf
+   C专家编程 清晰 （有书签索引）.pdf
 
-C#入门经典(第6版).pdf
+   Effective C++, 3rd Edition by Scott Meyers.pdf
 
-C#入门经典(第五版).pdf
+   Effective C++中文版(第三版).pdf
 
-c#文档.pdf
+   C语言程序设计_现代方法 第2版.pdf
 
-C++ Primer中文版 (第5版).pdf
+   STL源码剖析 by 侯捷.pdf
 
-C++笔记.pdf
+   The C++ Standard Library A Tutorial and Reference by Nicolai M. Josuttis.pdf
 
-Computer Systems. A Programmer’s Perspective 3rd.pdf
+2. [C#](https://pan.baidu.com/s/1mnXmBz-9Yl9foXEHU5O6IQ)
 
-C专家编程 清晰 （有书签索引）.pdf
+   C#入门经典(第6版).pdf
 
-Effective C++, 3rd Edition by Scott Meyers.pdf
+   C#入门经典(第五版).pdf
 
-Effective C++中文版(第三版).pdf
+   c#文档.pdf
 
-Linux就该这么学 高清晰PDF.pdf
+   WPF编程宝典第4版.pdf
 
-WPF编程宝典第4版.pdf
+   深入浅出WPF完整版.pdf
 
-《C语言程序设计_现代方法 第2版》.pdf
+3. [Linux](https://pan.baidu.com/s/10C1hVhAAcE-hGkxLwAqfBQ)
 
-《汇编语言》(第3版) 王爽著.pdf
+   Advanced Programming in the UNIX Environment, 3rd Edition.pdf
 
-中文版 第三版UNIX 环境高级编程 第3版.pdf
+   中文版 第三版UNIX 环境高级编程 第3版.pdf
 
-大话数据结构.pdf
+   Linux就该这么学 高清晰PDF.pdf
 
-深入浅出WPF完整版.pdf
+   鸟哥的Linux私房菜-第四版-基础篇.pdf
 
-鸟哥的Linux私房菜-第四版-基础篇.pdf
+4. [Python](https://pan.baidu.com/s/1-4Owu-rLbC49yqpvQw0jkA)
 
-Python编程从入门到实践.pdf
+   Python编程从入门到实践.pdf
 
-STL源码剖析 by 侯捷.pdf
+5. [Others](https://pan.baidu.com/s/1mjLWOoVDiLEnyhZvCcfy_w)
 
-The C++ Standard Library A Tutorial and Reference by Nicolai M. Josuttis.pdf
+   《汇编语言》(第3版) 王爽著.pdf
 
-设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
+   大话数据结构.pdf
 
+   设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
 
+### [MachineLearning](https://pan.baidu.com/s/174UKWjVFMqopa8ziL26-Gw)
 
-* **[Electronic](https://pan.baidu.com/s/1GQGzUBq0vNFGmVC11W0obQ)**
+​	pumpkin_book.pdf 
 
-100-uCOS-III-ST-STM32.pdf
+​	机器学习周志华.pdf
 
+​	机器学习实战-Machine Learning in Action by Peter Harrington.pdf
 
+### [Electronic](https://pan.baidu.com/s/12nhhr200vmtqrqCNiFg7nA)
 
-* **[ML&DL](https://pan.baidu.com/s/1E0699wj2c_KpA8iZVwgcKQ)**
+​	100-uCOS-III-ST-STM32.pdf
 
-pumpkin_book.pdf
-
-机器学习周志华.pdf
-
-
-
-* **[OS](https://pan.baidu.com/s/15PnBzEeRz3BAkuTuq02QIg)**
+### [OS](https://pan.baidu.com/s/1JWwchtoEpcOJdpgZYP1dyQ)
 
 30天自制操作系统.pdf
 
@@ -99,3 +99,7 @@ Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Wood
 操作系统设计与实现（上册） by Andrew S. Tanenbaum Albert S. Woodhull.pdf
 
 操作系统设计与实现（下册） by [美] ANDREWS. (z-lib.org).pdf
+
+541118 深入理解计算机系统（原书第三版）.pdf
+
+Computer Systems. A Programmer’s Perspective 3rd.pdf
