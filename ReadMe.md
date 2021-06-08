@@ -16,7 +16,7 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 链接：https://pan.baidu.com/s/1hd5SWuqZTFRAx5-GZoN5aA 
 提取码：qw66 
 
-## 目录(2021.06.02)
+## 目录(2021.06.08)
 
 ### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
@@ -64,6 +64,8 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 
    Python编程从入门到实践.pdf
 
+   Python Cookbook.pdf
+
 5. [Others](https://pan.baidu.com/s/1mjLWOoVDiLEnyhZvCcfy_w)
 
    《汇编语言》(第3版) 王爽著.pdf
@@ -79,6 +81,8 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 ​	机器学习周志华.pdf
 
 ​	机器学习实战-Machine Learning in Action by Peter Harrington.pdf
+
+​	DeepLearning_cn.pdf
 
 ### [Electronic](https://pan.baidu.com/s/12nhhr200vmtqrqCNiFg7nA)
 
