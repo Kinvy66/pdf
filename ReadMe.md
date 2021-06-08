@@ -84,6 +84,8 @@ gitee参考容量有限，以网盘的形式分享，以下是文件目录，根
 
 ​	DeepLearning_cn.pdf
 
+​	动手学深度学习.pdf
+
 ### [Electronic](https://pan.baidu.com/s/12nhhr200vmtqrqCNiFg7nA)
 
 ​	100-uCOS-III-ST-STM32.pdf
