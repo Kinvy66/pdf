@@ -16,6 +16,8 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 链接：https://pan.baidu.com/s/1hd5SWuqZTFRAx5-GZoN5aA 
 提取码：qw66 
 
+阿里云盘(推荐)：https://www.aliyundrive.com/s/HKYAEtUZq2t
+
 链接失效请联系：[邮箱](kinvy66@163.com) ,  [B站](https://space.bilibili.com/109199717)
 
 ## 目录(2021.07.06)
