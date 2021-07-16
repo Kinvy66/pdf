@@ -20,7 +20,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 链接失效请联系：[邮箱](kinvy66@163.com) ,  [B站](https://space.bilibili.com/109199717)
 
-## 目录(2021.07.06)
+## 目录(2021.07.16)
 
 ### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
@@ -77,6 +77,8 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
    大话数据结构.pdf
 
    设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
+   
+   算法（第四版）中文版 .pdf
 
 ### [MachineLearning](https://pan.baidu.com/s/174UKWjVFMqopa8ziL26-Gw)
 
