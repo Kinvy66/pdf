@@ -20,7 +20,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 链接失效请联系：[邮箱](kinvy66@163.com) ,  [B站](https://space.bilibili.com/109199717)
 
-## 目录(2021.07.16)
+## 目录(2021.07.31)
 
 ### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
@@ -121,4 +121,12 @@ Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Wood
 Computer Systems. A Programmer’s Perspective 3rd.pdf
 
 操作系统导论-OSTEP.pdf
+
+x86汇编语言-从实模式到保护模式.pdf
+
+编码 隐匿在计算机软硬件背后的语言.pdf
+
+穿越计算机的迷雾 by 李忠.pdf
+
+计算机组成原理.pdf
 
