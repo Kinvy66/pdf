@@ -20,7 +20,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 链接失效请联系：[邮箱](kinvy66@163.com) ,  [B站](https://space.bilibili.com/109199717)
 
-## 目录(2021.07.31)
+## 目录(2021.08.19)
 
 ### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
@@ -79,6 +79,8 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
    设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
    
    算法（第四版）中文版 .pdf
+   
+   Computer Networking A Top-Down Approach, 7th Edition by James Kurose, Keith Ross .pdf
 
 ### [MachineLearning](https://pan.baidu.com/s/174UKWjVFMqopa8ziL26-Gw)
 
@@ -93,6 +95,8 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 ​	动手学深度学习.pdf
 
 ​	PyTorch官方教程中文版.pdf
+
+动手学深度学习pytorch.pdf
 
 
 
@@ -129,4 +133,8 @@ x86汇编语言-从实模式到保护模式.pdf
 穿越计算机的迷雾 by 李忠.pdf
 
 计算机组成原理.pdf
+
+MIT6.828-book.pdf
+
+Modern Operating Systems by Andrew S. Tanenbaum, Herbert Bos.pdf
 
