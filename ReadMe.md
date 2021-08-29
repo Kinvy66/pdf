@@ -13,128 +13,158 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 所有文件：
 
-链接：https://pan.baidu.com/s/1hd5SWuqZTFRAx5-GZoN5aA 
-提取码：qw66 
+链接：https://pan.baidu.com/s/15SzBowdsx1lZ7brJDxpT9w 
+提取码：qw66
 
-阿里云盘(推荐)：https://www.aliyundrive.com/s/HKYAEtUZq2t
+阿里云盘(推荐)：https://www.aliyundrive.com/s/nf1wi8hEtoC
 
 邮箱：kinvy66@163.com,  [B站](https://space.bilibili.com/109199717)
 
-## 目录(2021.08.19)
 
-### [CS](https://pan.baidu.com/s/1z7ZjGspiYb20-yB8TYN8jg)
 
-1. [c/c++](https://pan.baidu.com/s/1knG8InoVhlBkwwEgk6Scdg)
+## 更新日志
 
-   C++ Primer中文版 (第5版).pdf
-
-   C++笔记.pdf
-
-   C专家编程 清晰 （有书签索引）.pdf
-
-   Effective C++, 3rd Edition by Scott Meyers.pdf
-
-   Effective C++中文版(第三版).pdf
-
-   C语言程序设计_现代方法 第2版.pdf
-
-   STL源码剖析 by 侯捷.pdf
-
-   The C++ Standard Library A Tutorial and Reference by Nicolai M. Josuttis.pdf
-
-2. [C#](https://pan.baidu.com/s/1mnXmBz-9Yl9foXEHU5O6IQ)
-
-   C#入门经典(第6版).pdf
-
-   C#入门经典(第五版).pdf
-
-   c#文档.pdf
-
-   WPF编程宝典第4版.pdf
-
-   深入浅出WPF完整版.pdf
-
-3. [Linux](https://pan.baidu.com/s/10C1hVhAAcE-hGkxLwAqfBQ)
-
-   Advanced Programming in the UNIX Environment, 3rd Edition.pdf
-
-   中文版 第三版UNIX 环境高级编程 第3版.pdf
-
-   Linux就该这么学 高清晰PDF.pdf
-
-   鸟哥的Linux私房菜-第四版-基础篇.pdf
-
-4. [Python](https://pan.baidu.com/s/1-4Owu-rLbC49yqpvQw0jkA)
-
-   Python编程从入门到实践.pdf
-
-   Python Cookbook.pdf
-
-5. [Others](https://pan.baidu.com/s/1mjLWOoVDiLEnyhZvCcfy_w)
-
-   《汇编语言》(第3版) 王爽著.pdf
-
-   大话数据结构.pdf
-
-   设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlissides.pdf
-   
-   算法（第四版）中文版 .pdf
-   
-   Computer Networking A Top-Down Approach, 7th Edition by James Kurose, Keith Ross .pdf
-
-### [MachineLearning](https://pan.baidu.com/s/174UKWjVFMqopa8ziL26-Gw)
-
-​	pumpkin_book.pdf 
-
-​	机器学习周志华.pdf
-
-​	机器学习实战-Machine Learning in Action by Peter Harrington.pdf
-
-​	DeepLearning_cn.pdf
-
-​	动手学深度学习.pdf
-
-​	PyTorch官方教程中文版.pdf
-
-动手学深度学习pytorch.pdf
+* 2021-8-29 添加更新日志，调整文件分类
 
 
 
-### [Electronic](https://pan.baidu.com/s/12nhhr200vmtqrqCNiFg7nA)
+## 文件目录
 
-​	100-uCOS-III-ST-STM32.pdf
+### 01. [Programing Language（编程语言）][https://www.aliyundrive.com/s/BmwSzhaQttW]
 
-### [OS](https://pan.baidu.com/s/1JWwchtoEpcOJdpgZYP1dyQ)
 
-30天自制操作系统.pdf
 
-Linux完全注释.pdf
+#### [00-ProgrammingBasics（编程基础）](https://www.aliyundrive.com/s/UHEqPXngbSg)
 
-Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin.pdf
+- 大话数据结构
 
-Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Woodhull.pdf
+* 算法（第四版）中文版
 
-操作系统概念（原书第9版） by Abraham Silberschatz,Peter B. Galvin,Greg Gagne.pdf
+- 设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlisside
 
-操作系统设计与实现（上册） by Andrew S. Tanenbaum Albert S. Woodhull.pdf
+#### [01-C_CPP](https://www.aliyundrive.com/s/6nfTTXLEFYY)
 
-操作系统设计与实现（下册） by [美] ANDREWS. (z-lib.org).pdf
+- C++ Primer中文版 (第5版）
 
-541118 深入理解计算机系统（原书第三版）.pdf
+- C++笔记
 
-Computer Systems. A Programmer’s Perspective 3rd.pdf
+- C专家编程
 
-操作系统导论-OSTEP.pdf
+- Effective C++, 3rd Edition by Scott Meyer
 
-x86汇编语言-从实模式到保护模式.pdf
+- Effective C++中文版(第三版)
 
-编码 隐匿在计算机软硬件背后的语言.pdf
+- STL源码剖析 by 侯捷
 
-穿越计算机的迷雾 by 李忠.pdf
+- The C++ Standard Library A Tutorial and Reference by Nicolai M. Josutti
 
-计算机组成原理.pdf
+- C语言程序设计_现代方法 第2版
 
-MIT6.828-book.pdf
+#### [02-Python](https://www.aliyundrive.com/s/1pd3BoYXV45)
 
-Modern Operating Systems by Andrew S. Tanenbaum, Herbert Bos.pdf
+- Python Cookbook（中文版）
+
+- Python编程从入门到实
+
+#### [03-Java](https://www.aliyundrive.com/s/jAh9xz7Ugy9)
+
+
+
+#### [04-C#](https://www.aliyundrive.com/s/U1ai5qnSFr7)
+
+- C#入门经典(第6版）
+
+- C#入门经典(第五版）
+
+- c#文档
+
+- WPF编程宝典第4版
+
+- 深入浅出WPF完整版
+
+#### [05-Asm](https://www.aliyundrive.com/s/wKXNPsuVuck)
+
+- x86汇编语言-从实模式到保护模
+
+- 汇编语言(第3版) 王爽
+
+
+
+
+
+### 02. [ComputerBasics](https://www.aliyundrive.com/s/TQw5wuLKvte)
+
+- Computer Networking A Top-Down Approach, 7th Edition by James Kurose, Keith Ross 
+
+- 穿越计算机的迷雾 by 李忠
+
+- 编码-隐匿在计算机软硬件背后的语言
+
+- 计算机组成原理
+
+### 03. [Linux](https://www.aliyundrive.com/s/XUD7nbtApnt)
+
+- Advanced Programming in the UNIX Environment, 3rd Edition
+
+- Linux内核完全注释
+
+- Linux就该这么学 高清晰PDF
+
+- 中文版 第三版UNIX 环境高级编程 第3版
+
+- 鸟哥的Linux私房菜-第四版-基础篇
+
+### 04. [OperatingSystem](https://www.aliyundrive.com/s/Nm8tsx9JMSq)
+
+- 30天自制操作系统
+
+- Computer Organization & Architecture_Themes and Variations 4e
+
+- Computer Systems. A Programmer’s Perspective 3rd
+
+- MIT6.828-book
+
+- Modern Operating Systems by Andrew S. Tanenbaum, Herbert Bos
+
+- Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin
+
+- Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Woodhull
+
+- Operating Systems Three Easy Pieces by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
+
+- The little book about OS development
+
+- 操作系统导论-OSTEP
+
+- 操作系统概念（原书第9版） by Abraham Silberschatz,Peter B. Galvin,Greg Gagne
+
+- 操作系统设计与实现（上册） by Andrew S. Tanenbaum Albert S. Woodhull
+
+- 操作系统设计与实现（下册） by [美] ANDREWS
+
+- 深入理解计算机系统（第三版）
+
+### 05. [Electronic](https://www.aliyundrive.com/s/JKYWHsD4vyy)
+
+- 100-uCOS-III-ST-STM32
+
+- 数字电子技术基础 by 阎石主编
+
+### 06. [MachineLearning](https://www.aliyundrive.com/s/tfzGh3KsVKh)
+
+- DeepLearning_cn
+
+- pumpkin_book
+
+- PyTorch官方教程中文版
+
+- 动手学深度学习mxnet
+
+- 动手学深度学习pytorch
+
+- 机器学习周志华
+
+- 机器学习实战-Machine Learning in Action by Peter Harrington
+
+- 统计学习方法（第2版） by 李航
 
