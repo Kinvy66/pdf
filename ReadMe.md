@@ -24,6 +24,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2021-9-13 添加Others分类，添加书籍
 * 2021-8-29 添加更新日志，调整文件分类
 
 
@@ -41,6 +42,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 * 算法（第四版）中文版
 
 - 设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlisside
+- 数据结构、算法与应用（原书第2版） C++语言描述 by Sartaj Sahni
 
 #### [01-C_CPP](https://www.aliyundrive.com/s/6nfTTXLEFYY)
 
@@ -167,4 +169,12 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 - 机器学习实战-Machine Learning in Action by Peter Harrington
 
 - 统计学习方法（第2版） by 李航
+
+
+
+### [Others](https://www.aliyundrive.com/s/reP1Ru9cxSn)
+
+- 数字图像处理（第三版） by 冈萨雷斯
+
+
 
