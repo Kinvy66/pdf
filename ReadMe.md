@@ -24,6 +24,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2021-9-20 添加Java核心技术·卷 I，II
 * 2021-9-13 添加Others分类，添加书籍
 * 2021-8-29 添加更新日志，调整文件分类
 
@@ -70,7 +71,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 #### [03-Java](https://www.aliyundrive.com/s/jAh9xz7Ugy9)
 
-
+- Java核心技术·卷 I（原书第11版） 基础知识 by 凯 S.霍斯特曼
 
 #### [04-C#](https://www.aliyundrive.com/s/U1ai5qnSFr7)
 
