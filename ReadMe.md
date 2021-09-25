@@ -24,6 +24,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2021-9-25 添加TextBook分类，该类别下主要为理工科优秀教材和参考书，移动Others下部分书到本分类下
 * 2021-9-20 添加Java核心技术·卷 I，II
 * 2021-9-13 添加Others分类，添加书籍
 * 2021-8-29 添加更新日志，调整文件分类
@@ -176,6 +177,20 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 ### [Others](https://www.aliyundrive.com/s/reP1Ru9cxSn)
 
 - 数字图像处理（第三版） by 冈萨雷斯
+
+
+
+### [TextBook](https://www.aliyundrive.com/s/XHbTcDhWiS7) 
+
+* Convex Optimization by Stephen Boyd\
+* Probability and Random Processes for Electrical and Computer Engineers by John A. Gubner
+* Probability, Statistics, and Random Processes for Engineers (0, Pearson) - libgen.lc
+* 复变函数论方法(第6版) by [俄]M.A.拉夫连季耶夫等(译者)施祥林等.org)
+* 概率、统计与随机过程 [（美）HenryStark，（美）JohnW.Woods 著] 2015年版
+* 数字图像处理（第三版） by 冈萨雷斯
+* 最优化理论与算法 by 陈宝林
+
+
 
 
 
