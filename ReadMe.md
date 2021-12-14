@@ -24,6 +24,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2021-12-14 添加 C++ Primer 5th 英文版
 * 2021-9-25 添加TextBook分类，该类别下主要为理工科优秀教材和参考书，移动Others下部分书到本分类下
 * 2021-9-20 添加Java核心技术·卷 I，II
 * 2021-9-13 添加Others分类，添加书籍
@@ -49,20 +50,14 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 #### [01-C_CPP](https://www.aliyundrive.com/s/6nfTTXLEFYY)
 
 - C++ Primer中文版 (第5版）
-
 - C++笔记
-
 - C专家编程
-
 - Effective C++, 3rd Edition by Scott Meyer
-
 - Effective C++中文版(第三版)
-
 - STL源码剖析 by 侯捷
-
 - The C++ Standard Library A Tutorial and Reference by Nicolai M. Josutti
-
 - C语言程序设计_现代方法 第2版
+- C++ Primer-5th Edition
 
 #### [02-Python](https://www.aliyundrive.com/s/1pd3BoYXV45)
 
