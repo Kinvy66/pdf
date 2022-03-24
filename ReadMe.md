@@ -13,7 +13,7 @@ dev
 
 
 
-gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是==qw66==）
+gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是 qw66）
 
 所有文件：
 
@@ -22,7 +22,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 阿里云盘(推荐)：https://www.aliyundrive.com/s/nf1wi8hEtoC
 
-邮箱：kinvy66@163.com,  [B站](https://space.bilibili.com/109199717)
+邮箱：kinvy66@163.com
 
 
 
