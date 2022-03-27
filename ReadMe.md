@@ -7,12 +7,6 @@
 
 
 
-dev 
-
-
-
-
-
 gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是 qw66）
 
 所有文件：
@@ -28,6 +22,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2022-03-27 更新《x86汇编语言-从实模式到保护模式》，增加《一个64位操作系统的设计与实现》
 * 2022-03-24 更新《汇编语言》第四版，增加《计算机网络-自顶向下方法》
 * 2021-12-14 添加 C++ Primer 5th 英文版
 * 2021-9-25 添加TextBook分类，该类别下主要为理工科优秀教材和参考书，移动Others下部分书到本分类下
@@ -40,8 +35,6 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 ## 文件目录
 
 ### 01. [Programing Language（编程语言）][https://www.aliyundrive.com/s/BmwSzhaQttW]
-
-
 
 #### [00-ProgrammingBasics（编程基础）](https://www.aliyundrive.com/s/UHEqPXngbSg)
 
@@ -89,11 +82,9 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 #### [05-Asm](https://www.aliyundrive.com/s/wKXNPsuVuck)
 
-- x86汇编语言-从实模式到保护模
-
+- x86汇编语言_ 从实模式到保护模式（扫描版）
+- x86汇编语言-从实模式到保护模式（高清版1-13章）
 - 汇编语言(第4版) 王爽
-
-
 
 
 
@@ -183,7 +174,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ### [TextBook](https://www.aliyundrive.com/s/XHbTcDhWiS7) 
 
-* Convex Optimization by Stephen Boyd\
+* Convex Optimization by Stephen Boyd
 * Probability and Random Processes for Electrical and Computer Engineers by John A. Gubner
 * Probability, Statistics, and Random Processes for Engineers (0, Pearson) - libgen.lc
 * 复变函数论方法(第6版) by [俄]M.A.拉夫连季耶夫等(译者)施祥林等.org)
