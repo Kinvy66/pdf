@@ -113,32 +113,20 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 ### 04. [OperatingSystem](https://www.aliyundrive.com/s/Nm8tsx9JMSq)
 
 - 30天自制操作系统
-
 - Computer Organization & Architecture_Themes and Variations 4e
-
 - Computer Systems. A Programmer’s Perspective 3rd
-
 - MIT6.828-book
-
 - Modern Operating Systems by Andrew S. Tanenbaum, Herbert Bos
-
 - Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin
-
 - Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Woodhull
-
 - Operating Systems Three Easy Pieces by Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau
-
 - The little book about OS development
-
 - 操作系统导论-OSTEP
-
 - 操作系统概念（原书第9版） by Abraham Silberschatz,Peter B. Galvin,Greg Gagne
-
 - 操作系统设计与实现（上册） by Andrew S. Tanenbaum Albert S. Woodhull
-
 - 操作系统设计与实现（下册） by [美] ANDREWS
-
 - 深入理解计算机系统（第三版）
+- 一个64位操作系统的设计与实现
 
 ### 05. [Electronic](https://www.aliyundrive.com/s/JKYWHsD4vyy)
 
