@@ -22,6 +22,9 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 更新日志
 
+* 2022-05-09 添加c++书籍若干
+* 2022-05-03 添加若干数据结构和算法的书籍
+* 2022-04-30 添加若干
 * 2022-03-27 更新《x86汇编语言-从实模式到保护模式》，增加《一个64位操作系统的设计与实现》
 * 2022-03-24 更新《汇编语言》第四版，增加《计算机网络-自顶向下方法》
 * 2021-12-14 添加 C++ Primer 5th 英文版
@@ -34,7 +37,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 ## 文件目录
 
-### 01. [Programing Language（编程语言）][https://www.aliyundrive.com/s/BmwSzhaQttW]
+### 01. [Programing Language（编程语言)](https://www.aliyundrive.com/s/BmwSzhaQttW)
 
 #### [00-ProgrammingBasics（编程基础）](https://www.aliyundrive.com/s/UHEqPXngbSg)
 
@@ -44,6 +47,10 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 - 设计模式 可复用面向对象软件的基础 by [美] Erich Gamma Richard Helm Ralph Johnson John Vlisside
 - 数据结构、算法与应用（原书第2版） C++语言描述 by Sartaj Sahni
+- Data Structures and Algorithm Analysis in C++ (Mark A. Weiss)  4th
+- 数据结构与算法分析 C++描述(第三版) ([美] Mark Allen Weiss  张怀勇)
+- 算法导论 第三版
+- 算法图解 by [美] Aditya Bhargava
 
 #### [01-C_CPP](https://www.aliyundrive.com/s/6nfTTXLEFYY)
 
@@ -56,6 +63,11 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 - The C++ Standard Library A Tutorial and Reference by Nicolai M. Josutti
 - C语言程序设计_现代方法 第2版
 - C++ Primer-5th Edition
+- Qt 5.9 C++开发指南 (王维波 栗宝鹃 侯春望) -高清版
+- Qt 5.9 C++开发指南 (王维波 栗宝鹃 侯春望)-扫描版
+- More Effective C++（中文版） 35个改善编程与设计的有效方法 (Scott Meyers)
+- 深度探索c++对象模型 (Stanley Lippman , 侯捷)
+- Effective Modern C++ 42 Specific Ways to Improve Your Use of C++11 and C++14 (Scott Meyers)
 
 #### [02-Python](https://www.aliyundrive.com/s/1pd3BoYXV45)
 
@@ -137,20 +149,16 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 ### 06. [MachineLearning](https://www.aliyundrive.com/s/tfzGh3KsVKh)
 
 - DeepLearning_cn
-
 - pumpkin_book
-
 - PyTorch官方教程中文版
-
 - 动手学深度学习mxnet
-
 - 动手学深度学习pytorch
-
 - 机器学习周志华
-
 - 机器学习实战-Machine Learning in Action by Peter Harrington
-
 - 统计学习方法（第2版） by 李航
+- Reinforcement Learning：An Introduction（中文版）
+- The Elements of Statistical Learning Data Mining, Inference, and Prediction (2nd edition) (12print 2017) (Trevor Hastie, Robert Tibshirani etc.)
+- 深入浅出图神经网络：GNN原理解析
 
 
 
@@ -158,9 +166,7 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 
 
 
-
-
-### [TextBook](https://www.aliyundrive.com/s/XHbTcDhWiS7) 
+### [TextBook（教材）](https://www.aliyundrive.com/s/XHbTcDhWiS7)
 
 * Convex Optimization by Stephen Boyd
 * Probability and Random Processes for Electrical and Computer Engineers by John A. Gubner
@@ -169,8 +175,4 @@ gitee仓库容量有限，以网盘的形式分享，以下是文件目录，根
 * 概率、统计与随机过程 [（美）HenryStark，（美）JohnW.Woods 著] 2015年版
 * 数字图像处理（第三版） by 冈萨雷斯
 * 最优化理论与算法 by 陈宝林
-
-
-
-
-
+* Linear Algebra and Its Applications (David C. Lay, Steven R. Lay, Judi J. McDonald) 
