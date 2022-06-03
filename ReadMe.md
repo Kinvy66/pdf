@@ -22,6 +22,7 @@
 
 ## 更新日志
 
+* 2022-06-03 添加几本计算机网络相关的书
 * 2022-05-09 添加c++书籍若干
 * 2022-05-03 添加若干数据结构和算法的书籍
 * 2022-04-30 添加若干
@@ -103,24 +104,21 @@
 ### 02. [ComputerBasics](https://www.aliyundrive.com/s/TQw5wuLKvte)
 
 - Computer Networking A Top-Down Approach, 7th Edition by James Kurose, Keith Ross 
-
 - 穿越计算机的迷雾 by 李忠
-
 - 编码-隐匿在计算机软硬件背后的语言
-
 - 计算机组成原理
+- 计算机网络 (谢希仁) 
 
 ### 03. [Linux](https://www.aliyundrive.com/s/XUD7nbtApnt)
 
 - Advanced Programming in the UNIX Environment, 3rd Edition
-
 - Linux内核完全注释
-
 - Linux就该这么学 高清晰PDF
-
 - 中文版 第三版UNIX 环境高级编程 第3版
-
 - 鸟哥的Linux私房菜-第四版-基础篇
+- UNIX网络编程卷1：套接字联网API（第3版）
+- UNIX网络编程卷2：进程间通信（第2版）
+- Linux高性能服务器编程 (游双 著)
 
 ### 04. [OperatingSystem](https://www.aliyundrive.com/s/Nm8tsx9JMSq)
 
