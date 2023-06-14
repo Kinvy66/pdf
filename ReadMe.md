@@ -7,7 +7,7 @@
 
 
 
-~~Gitee~~ gitHub仓库容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是 qw66）
+~~Gitee~~ GitHub仓库容量有限，以网盘的形式分享，以下是文件目录，根据需要自取(提取码都是 qw66）
 
 所有文件：
 
@@ -22,6 +22,7 @@
 
 ## 更新日志
 
+* 2023-06-14 添加若干操作系统和C/C++相关的书籍
 * 2022-06-03 添加几本计算机网络相关的书
 * 2022-05-09 添加c++书籍若干
 * 2022-05-03 添加若干数据结构和算法的书籍
@@ -52,6 +53,7 @@
 - 数据结构与算法分析 C++描述(第三版) ([美] Mark Allen Weiss  张怀勇)
 - 算法导论 第三版
 - 算法图解 by [美] Aditya Bhargava
+- 程序员的自我修养—链接、装载与库
 
 #### [01-C_CPP](https://www.aliyundrive.com/s/6nfTTXLEFYY)
 
@@ -69,6 +71,11 @@
 - More Effective C++（中文版） 35个改善编程与设计的有效方法 (Scott Meyers)
 - 深度探索c++对象模型 (Stanley Lippman , 侯捷)
 - Effective Modern C++ 42 Specific Ways to Improve Your Use of C++11 and C++14 (Scott Meyers)
+- C++-Concurrency-In-Action-2ed-zh-v0.2
+- C++17 - The Complete Guide(中文版)
+- C++20 STL Cookbook 中文
+- C++20-Get-The-Details-cn-20230126
+- C++Templates 2nd Edition
 
 #### [02-Python](https://www.aliyundrive.com/s/1pd3BoYXV45)
 
@@ -125,7 +132,7 @@
 - 30天自制操作系统
 - Computer Organization & Architecture_Themes and Variations 4e
 - Computer Systems. A Programmer’s Perspective 3rd
-- MIT6.828-book
+- xv6-book-rev11
 - Modern Operating Systems by Andrew S. Tanenbaum, Herbert Bos
 - Operating System Concepts by Abraham Silberschatz, Greg Gagne, Peter B. Galvin
 - Operating Systems Design and Implementation by Andrew S Tanenbaum, Albert S Woodhull
@@ -137,6 +144,8 @@
 - 操作系统设计与实现（下册） by [美] ANDREWS
 - 深入理解计算机系统（第三版）
 - 一个64位操作系统的设计与实现
+- Orange'S一个操作系统的实现
+- 操作系统真象还原 (郑纲) 
 
 ### 05. [Electronic](https://www.aliyundrive.com/s/JKYWHsD4vyy)
 
